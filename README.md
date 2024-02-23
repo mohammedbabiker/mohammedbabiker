@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Babiker</h1>
-<h3 align="center">I'm learning to be a full-stack web developer, which means I'm learning both front-end (HTML, CSS, and JavaScript) and back-end skills (Python or PHP and database management). I'm also getting to know frameworks and tools like React, Angular, Vue, Node.js, and Django. This will allow me to build dynamic web apps that meet the needs of today's businesses and organizations.</h3>
+<!--<h3 align="center">I'm learning to be a full-stack web developer, which means I'm learning both front-end (HTML, CSS, and JavaScript) and back-end skills (Python or PHP and database management). I'm also getting to know frameworks and tools like React, Angular, Vue, Node.js, and Django. This will allow me to build dynamic web apps that meet the needs of today's businesses and organizations.</h3> -->
 
 
 
